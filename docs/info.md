@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The project is a 4-bit adder
 
 ## How to test
 
-Explain how to use your project
+input 0/1 and it will output the addition of it
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+no external hardware
